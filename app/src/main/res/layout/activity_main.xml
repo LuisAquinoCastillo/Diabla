@@ -23,12 +23,12 @@
         android:hint="Introduce un mensaje"
         android:layout_margin="15dp"
         android:layout_height="wrap_content"
-        android:id="@+id/textoMensaje"/>
+        android:id="@+id/mensaje"/>
 
     <Button
         android:layout_width="match_parent"
         android:text="Compartir"
         android:background="@color/colorAccent"
         android:layout_height="wrap_content"
-        android:id="@+id/enviar"/>
+        android:id="@+id/compartir"/>
 </LinearLayout>
